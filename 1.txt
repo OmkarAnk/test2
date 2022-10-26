@@ -1,7 +1,4 @@
 this line was added inside GitHub reposatary
 second line added inside github
-<<<<<<< HEAD
 Third line was added inside VIM 
-=======
 this line was added inside github to check sync also the line which was added in VIM is not visible here 
->>>>>>> 995d3d9c5b9845461d1f97e4b112adaed49f5370
