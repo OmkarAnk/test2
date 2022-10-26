@@ -22,3 +22,4 @@ case $choice in
 esac
 echo this line was written inside github
 echo congratulations your trial was sucessfull
+echo this is the third trial line
