@@ -3,11 +3,4 @@ second line added inside github
 Third line was added inside VIM 
 this line was added inside github to check sync also the line which was added in VIM is not visible here 
 this line again was added inside github.
-this line added to check the pull request
-this line added to chekc the pull request again
-this line added to check fetch request
-this line added to chekk the changes made locally
-this line added to check the changes made locally 2nd time
-this line again added to check pull request
-this iine was added to check the fetch request
-this line was added again to check pull
+check pull
