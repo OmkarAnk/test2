@@ -3,8 +3,3 @@ second line added inside github
 Third line was added inside VIM 
 this line was added inside github to check sync also the line which was added in VIM is not visible here 
 this line again was added inside github.
-<<<<<<< HEAD
-This line was added in VIM
-=======
-this line is for Fetch test-2 only
->>>>>>> 7d8d023e4b1baed0b581fc4bee55fa91e7804655
