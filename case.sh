@@ -20,3 +20,5 @@ case $choice in
 		echo sum of numbers is $sum;;
 	*) echo invalid option;;
 esac
+echo this line was written inside github
+echo congratulations your trial was sucessfull
