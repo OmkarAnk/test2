@@ -4,5 +4,4 @@ Third line was added inside VIM
 this line was added inside github to check sync also the line which was added in VIM is not visible here 
 this line again was added inside github.
 check pull
-check 
-fetch
+this line is for Fetch test only
