@@ -5,3 +5,4 @@ this line was added inside github to check sync also the line which was added in
 this line again was added inside github.
 This line is for fetch
 GITHUB CHECK
+Terminal check
