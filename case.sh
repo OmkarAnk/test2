@@ -13,7 +13,7 @@ else
 	echo GET THE FUCK OUT OF HERE YOU MAGGOT
 
 fi 
-
+echo This line was written in GIT 
 
 
 
