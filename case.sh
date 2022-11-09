@@ -14,6 +14,6 @@ else
 
 fi 
 echo This line was written in GIT 
-
+echo this line was written in git to check fetch
 
 
